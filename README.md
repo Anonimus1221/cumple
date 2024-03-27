@@ -1,13 +1,12 @@
-<!DOCTYPE html>
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>feliz cumpleaños encoded</title>
+  <title>feliz cumpleaños </title>
   
   <link rel="stylesheet" href="./hapy.css">
 </head>
 <body>
-	<i>Feliz cumpleaños<i>
+	<h2>Feliz cumpleaños</h2>
 	<h1><i>profe jhoana</i></h1>
 	<div id="corazon"></div>
 </body>
