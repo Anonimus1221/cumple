@@ -7,7 +7,7 @@
 </head>
 <body>
 	<h2>Feliz cumpleaños</h2>
-	<h1><i>profe jhoana</i></h1>
+	<h1>profe jhoana</h1>
 	<div id="corazon"></div>
 </body>
 </html>
