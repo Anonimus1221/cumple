@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="./hapy.css">
 </head>
 <body>
-	<h2><i>Feliz cumpleaños<i></h2>
+	<i>Feliz cumpleaños<i>
 	<h1><i>profe jhoana</i></h1>
 	<div id="corazon"></div>
 </body>
